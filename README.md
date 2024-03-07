@@ -1,3 +1,3 @@
 # PotatoCode
-my test file.
+my study log.  
 start by 2024.3.7
